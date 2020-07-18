@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "908637070016",
+    "firebase_url": "https://lojavirtual-2e6ca.firebaseio.com",
+    "project_id": "lojavirtual-2e6ca",
+    "storage_bucket": "lojavirtual-2e6ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908637070016:android:be8e298ebbbdb525480325",
+        "android_client_info": {
+          "package_name": "br.com.alves.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908637070016-cg8qdgn7m1o6f0qlihkei2kouusho5tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEH4hGFYy53HtXpxD-8H5s-Kj4y32VQ54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908637070016-cg8qdgn7m1o6f0qlihkei2kouusho5tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
